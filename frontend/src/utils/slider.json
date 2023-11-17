@@ -1,0 +1,38 @@
+[
+  {
+    "name": "New Orlean Blooms",
+    "price": "47,000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Garden City Villa",
+    "price": "66,000",
+    "detail": "Pahlawan Street XVII No.215, North Rohini, Delhi, India",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Marriot Homes",
+    "price": "35,853",
+    "detail": "Mansarovar complex near sirsi road, Jaipur East, Jaipur, Rajastan, India",
+    "image": "./r3.png"
+  },
+  {
+    "name": "NYC heights ",
+    "price": "47,043",
+    "detail": "NYC Garden City Street, New York. Pulo Gadung,  US",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  }
+]
